@@ -1,0 +1,68 @@
+html,body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+article {
+	width: 33.5%;
+	height: 100%;
+	margin: 0;
+}
+
+.left {
+	background: #4A90E2;
+	float: left;
+}
+
+.right {
+	background: #50E3C2;
+	float: right;
+	height: 84%;
+}
+
+.mid {
+	background: #B8E986;
+	margin: 0 auto;
+}
+
+.bottom-right {
+	height: 16%;
+	background: red;
+	position: absolute;
+	bottom: 0;
+}
+
+div {
+	height: 100%;
+	width: 100%;
+	display: flex;
+	flex-flow: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+h3 {
+	color: #fff;
+	margin: 0;
+	font-size: 26px;
+	font-family: "Myriad Set Pro", sans-serf;
+	display: flex;
+	flex-flow: wrap;
+	align-items: center;
+	justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
