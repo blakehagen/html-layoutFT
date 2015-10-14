@@ -17,8 +17,8 @@ article {
 }
 
 .main {
-	height: 28%;
-	overflow: scroll;
+	height: auto;
+	margin-bottom: 16px;
 
 }
 
@@ -53,6 +53,12 @@ h5 {
 	line-height: 32px;
 	margin: 0px 100px;
 	padding-top: 22px;
+}
+
+@media (max-width: 800px){
+	h5 {
+		margin: 0px 50px;
+	}
 }
 
 
